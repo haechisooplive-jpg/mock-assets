@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "general",
+      "label": "일반",
+      "thumbnails": [
+        "https://picsum.photos/seed/general-01/640/360",
+        "https://picsum.photos/seed/general-02/640/360",
+        "https://picsum.photos/seed/general-03/640/360",
+        "https://picsum.photos/seed/general-04/640/360",
+        "https://picsum.photos/seed/general-05/640/360",
+        "https://picsum.photos/seed/general-06/640/360",
+        "https://picsum.photos/seed/general-07/640/360",
+        "https://picsum.photos/seed/general-08/640/360",
+        "https://picsum.photos/seed/general-09/640/360",
+        "https://picsum.photos/seed/general-10/640/360",
+        "https://picsum.photos/seed/general-11/640/360",
+        "https://picsum.photos/seed/general-12/640/360",
+        "https://picsum.photos/seed/general-13/640/360",
+        "https://picsum.photos/seed/general-14/640/360"
+      ],
+      "profileImages": [
+        "https://picsum.photos/seed/general-profile-01/200/200",
+        "https://picsum.photos/seed/general-profile-02/200/200",
+        "https://picsum.photos/seed/general-profile-03/200/200",
+        "https://picsum.photos/seed/general-profile-04/200/200",
+        "https://picsum.photos/seed/general-profile-05/200/200",
+        "https://picsum.photos/seed/general-profile-06/200/200",
+        "https://picsum.photos/seed/general-profile-07/200/200",
+        "https://picsum.photos/seed/general-profile-08/200/200",
+        "https://picsum.photos/seed/general-profile-09/200/200",
+        "https://picsum.photos/seed/general-profile-10/200/200",
+        "https://picsum.photos/seed/general-profile-11/200/200",
+        "https://picsum.photos/seed/general-profile-12/200/200"
+      ],
+      "chipCategories": [
+        "토크/캠방",
+        "버추얼",
+        "스포츠",
+        "먹방",
+        "음악",
+        "여행",
+        "펫방",
+        "교양",
+        "더빙/라디오",
+        "금융",
+        "취미",
+        "영화"
+      ],
+      "titles": [
+        "오늘은 여기까지만",
+        "신규 업데이트 같이 봐요",
+        "퇴근하고 잠깐 켭니다",
+        "질문 받는 날",
+        "밤샘 작업 중계",
+        "비 오는 날 조용한 방송",
+        "새벽 감성 라디오",
+        "같이 점심 먹어요",
+        "첫 방송입니다 잘 부탁드려요",
+        "주말 계획 세우는 중",
+        "책상 정리하면서 수다",
+        "오랜만에 인사드립니다",
+        "구독자 500명 감사합니다",
+        "아무 말이나 해보는 방송"
+      ],
+      "nicknames": [
+        "구름도둑",
+        "야간비행",
+        "모서리곰",
+        "초록스탠드",
+        "빗소리수집가",
+        "창가의자",
+        "느린우체국",
+        "새벽세시",
+        "종이비행기",
+        "따뜻한보리차",
+        "겨울담요",
+        "고요한서랍",
+        "달빛산책",
+        "작은등대"
+      ],
+      "tags": [
+        "일상",
+        "수다",
+        "신입",
+        "저녁방송",
+        "청소",
+        "무편집",
+        "힐링",
+        "소통",
+        "새벽방송",
+        "주말"
+      ],
+      "viewerCountRange": [
+        12,
+        48000
+      ]
+    },
+    {
+      "id": "game",
+      "label": "게임",
+      "thumbnails": [
+        "https://picsum.photos/seed/game-01/640/360",
+        "https://picsum.photos/seed/game-02/640/360",
+        "https://picsum.photos/seed/game-03/640/360",
+        "https://picsum.photos/seed/game-04/640/360",
+        "https://picsum.photos/seed/game-05/640/360",
+        "https://picsum.photos/seed/game-06/640/360",
+        "https://picsum.photos/seed/game-07/640/360",
+        "https://picsum.photos/seed/game-08/640/360",
+        "https://picsum.photos/seed/game-09/640/360",
+        "https://picsum.photos/seed/game-10/640/360",
+        "https://picsum.photos/seed/game-11/640/360",
+        "https://picsum.photos/seed/game-12/640/360",
+        "https://picsum.photos/seed/game-13/640/360",
+        "https://picsum.photos/seed/game-14/640/360"
+      ],
+      "profileImages": [
+        "https://picsum.photos/seed/game-profile-01/200/200",
+        "https://picsum.photos/seed/game-profile-02/200/200",
+        "https://picsum.photos/seed/game-profile-03/200/200",
+        "https://picsum.photos/seed/game-profile-04/200/200",
+        "https://picsum.photos/seed/game-profile-05/200/200",
+        "https://picsum.photos/seed/game-profile-06/200/200",
+        "https://picsum.photos/seed/game-profile-07/200/200",
+        "https://picsum.photos/seed/game-profile-08/200/200",
+        "https://picsum.photos/seed/game-profile-09/200/200",
+        "https://picsum.photos/seed/game-profile-10/200/200",
+        "https://picsum.photos/seed/game-profile-11/200/200",
+        "https://picsum.photos/seed/game-profile-12/200/200"
+      ],
+      "chipCategories": [
+        "게임"
+      ],
+      "titles": [
+        "랭크 올리는 날",
+        "첫 클리어 도전 12일차",
+        "신작 맛보기 방송",
+        "듀오 구합니다",
+        "하드 난이도 무사망",
+        "업데이트 패치 뜯어보기",
+        "시청자 참여전 갑니다",
+        "실버 탈출 프로젝트",
+        "노데스 클리어 될 때까지",
+        "숨겨진 엔딩 찾는 중",
+        "장비 파밍만 세 시간째",
+        "친구랑 협동 플레이",
+        "오늘 안에 보스 잡기",
+        "초보도 환영하는 방송"
+      ],
+      "nicknames": [
+        "단검하나",
+        "패링장인",
+        "리스폰맛집",
+        "새벽공격대",
+        "체력반칸",
+        "물약장수",
+        "은신중",
+        "막타전문",
+        "방패들어",
+        "쿨타임대기",
+        "한발남음",
+        "귀환중",
+        "필드보스",
+        "무한리트"
+      ],
+      "tags": [
+        "FPS",
+        "RPG",
+        "협동",
+        "랭크전",
+        "신작",
+        "초보환영",
+        "공략",
+        "시청자참여",
+        "액션",
+        "인디게임"
+      ],
+      "viewerCountRange": [
+        340,
+        125000
+      ]
+    }
+  ]
+}
